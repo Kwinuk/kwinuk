@@ -35,9 +35,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
   <h4>ORM</h4>
    <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
-    <img src="https://img.shields.io/badge/TypeORM-007396?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
-  <h4>Documentation</h4>
-    <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
+   <img src="https://img.shields.io/badge/TypeORM-007396?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
 </div>
 
 ---
@@ -59,7 +57,7 @@
 
 ### 🛠️ Tools & Collaboration
 <div align="center">
-  <h4>Development Tools</h4>
+  <h4>IDE</h4>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
     <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
   <h4>Version Control & Collaboration</h4>
@@ -70,7 +68,7 @@
     <img src="https://img.shields.io/badge/Redmine-B32024?style=flat-square&logo=redmine&logoColor=white" alt="Redmine" />
     <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white" alt="Notion" />
     <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=google-sheets&logoColor=white" alt="Google Sheets" />
-  <h4>Containerization & Virtualization</h4>
+  <h4>Containerization</h4>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </div>
 
