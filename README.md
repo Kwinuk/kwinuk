@@ -15,7 +15,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <h4>Libraries & Frameworks</h4>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/JSP-FF0000?style=flat-square&logo=java&logoColor=white" alt="JSP" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white" alt="jQuery" />
 </div>
@@ -30,21 +29,17 @@
   <h4>Frameworks</h4>
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
     <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-  <h4>Runtime & Engines</h4>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <h4>ORM</h4>
+  <h4>ORM & Persistence</h4>
    <img src="https://img.shields.io/badge/JPA-007396?style=flat-square&logo=hibernate&logoColor=white" alt="JPA" />
+   <img src="https://img.shields.io/badge/MyBatis-007396?style=flat-square&logo=&logoColor=white" alt="MyBatis" />
    <img src="https://img.shields.io/badge/TypeORM-007396?style=flat-square&logo=typeorm&logoColor=white" alt="TypeORM" />
 </div>
-
 ---
 
 ### 📊 Data & Analytics
 <div align="center">
   <h4>⛃Databases</h4>
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/ClickHouse-FCC624?style=flat-square&logo=clickhouse&logoColor=black" alt="ClickHouse" />
   <h4>Data Streams</h4>
     <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Apache Kafka" />
   <h4>Search Engines</h4>
